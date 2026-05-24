@@ -25,6 +25,11 @@ Horseshoe-Shaped Universal camera mount for water meters by Zdendys:
 
 https://www.thingiverse.com/thing:6322373
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4ee917a8-755e-41cf-a799-85dc541b7c8c" />
+
+
+
+
 ---
 
 ## Software Required
