@@ -19,6 +19,11 @@ VCC  → 3.3V
 GND  → GND
 DATA → GPIO15 + 4.7kΩ pullup resistor to 3.3V
 ```
+### 3D print recommended - 
+
+Horseshoe-Shaped Universal camera mount for water meters by Zdendys: 
+
+https://www.thingiverse.com/thing:6322373
 
 ---
 
